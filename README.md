@@ -1,8 +1,6 @@
 # Smart-Premonition-Technique
 Bluetooth Controlled Car with IOT based vehicle Monitoring System and Automatic Circuit Breker
 
-# Smart-Premonition-Technique
-Bluetooth Controlled Car with IOT based vehicle Monitoring System and Automatic Circuit Breaker
 
 ## Problem  Statement
       In our day-to-day life the road accidents and death rate should be increased  by Automobile vehicles.
